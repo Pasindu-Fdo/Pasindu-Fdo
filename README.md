@@ -80,18 +80,18 @@
   </table>
 </p>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pasindu-ffdo&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 <br><br>
 
-<!-- Snake animation -->
+<!-- Snake animation 
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake"/>
-</div>
+</div> -->
 
 <br><br>
 
