@@ -26,14 +26,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
 
-<!-- What I'm Working On -->
-<h2 align="center">🚀 What I’m Working On</h2>
-<ul>
-  <li>Building awesome projects that bridge the gap between theory and practice.</li>
-  <li>Exploring new technologies and frameworks to stay ahead in the tech world.</li>
-  <li>Contributing to open-source projects and collaborating with the developer community.</li>
-</ul>
-
 <!-- Skills and Interests -->
 <h2 align="center">🧠 Skills and Interests</h2>
 <ul>
@@ -41,22 +33,6 @@
   <li><strong>Web Development:</strong> HTML, CSS, React, Node.js</li>
   <li><strong>Tools & Platforms:</strong> Git, GitHub, VS Code, Xcode</li>
   <li><strong>Interests:</strong> AI/ML, Cybersecurity, Blockchain, Software Design Patterns</li>
-</ul>
-
-<!-- Currently Learning -->
-<h2 align="center">🌱 Currently Learning</h2>
-<ul>
-  <li>Advanced algorithms and data structures</li>
-  <li>Full-stack development with MERN stack</li>
-  <li>Cloud computing with AWS</li>
-</ul>
-
-<!-- Hobbies -->
-<h2 align="center">🎮 When I’m Not Coding</h2>
-<ul>
-  <li>Gaming: Always up for a challenge in the latest games.</li>
-  <li>Movies & Series: Binging the newest releases and classic hits.</li>
-  <li>Anime: Diving into captivating stories and stunning visuals.</li>
 </ul>
 
 <!-- Divider -->
@@ -82,18 +58,18 @@
   </table>
 </p>
 
-<!-- GitHub Trophies 
+<!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pasindu-ffdo&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div> -->
+</div> 
 
 <br><br>
 
-<!-- Snake animation 
+<!-- Snake animation -->
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake"/>
-</div> -->
+</div> 
 
 <br><br>
 
