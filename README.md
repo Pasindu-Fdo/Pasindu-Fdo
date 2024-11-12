@@ -77,8 +77,6 @@
         <a href="https://github.com/pasindu-fdo">
           <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pasindu-fdo&theme=omni&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages"/>
         </a>
-
-
       </td>
     </tr>
   </table>
