@@ -61,14 +61,14 @@
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pasindu-ffdo&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pasindu-fdo&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div> 
 
 <br><br>
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/Pasindu-Fdo/Pasindu-Fdo/blob/main/snake.yml" alt="snake"/>
 </div> 
 
 <br><br>
