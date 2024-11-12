@@ -74,7 +74,11 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu-fdo&theme=omni&hide_border=true" align="center" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pasindu-fdo&theme=omni&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+        <a href="https://github.com/pasindu-fdo">
+          <img src="https://github-readme-stats.vercel.app/api?username=pasindu-fdo&theme=omni&hide_border=true&show_icons=true" alt="Pasindu's GitHub Stats"/>
+        </a>
+
+
       </td>
     </tr>
   </table>
