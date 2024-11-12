@@ -68,7 +68,7 @@
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://github.com/Pasindu-Fdo/Pasindu-Fdo/blob/main/snake.yml" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake"/>
 </div> 
 
 <br><br>
