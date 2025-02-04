@@ -77,12 +77,12 @@
 <br/><br/>
 
 <!-- Skills and Interests -->
-<h2 align="center">🧠 Skills and Interests</h2>
+<h2 align="center"> My Skills and Interests</h2>
 <ul>
-  <li><strong>Languages:</strong> Python, Java, JavaScript, C++</li>
+  <li><strong>Languages:</strong> Java, JavaScript, C++</li>
   <li><strong>Web Development:</strong> HTML, CSS, React, Node.js</li>
-  <li><strong>Tools & Platforms:</strong> Git, GitHub, VS Code, Xcode</li>
-  <li><strong>Interests:</strong> AI/ML, Cybersecurity, Blockchain, Software Design Patterns</li>
+  <li><strong>Tools & Platforms:</strong> Git, GitHub, VS Code</li>
+  <li><strong>Interests:</strong> AI/ML, Cybersecurity</li>
 </ul>
 
 <!-- Divider -->
