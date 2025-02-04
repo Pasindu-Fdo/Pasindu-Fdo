@@ -116,10 +116,6 @@
 
 <br><br>
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake"/>
-</div> 
 
 <br><br>
 
