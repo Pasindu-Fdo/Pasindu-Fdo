@@ -8,7 +8,7 @@
 <!-- Typing SVG animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=FULL+STACK+DEVELOPER;UX/UI+ENGINEER;YOUTUBER;PROGRAMMER" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=BACKEND+DEVELOPER;UX/UI+ENGINEER;GAMER;PROGRAMMER" alt="Typing SVG">
   </a>
 </div>
 
@@ -29,10 +29,9 @@
 <!-- Skills and Interests -->
 <h2 align="center"> My Skills and Interests</h2>
 <ul>
-  <li><strong>Languages:</strong> Java, JavaScript, C++</li>
-  <li><strong>Web Development:</strong> HTML, CSS, React, Node.js</li>
+  <li><strong>Languages:</strong> Java, JavaScript, Php, C#, C++</li>
+  <li><strong>Web Development:</strong> HTML, CSS, React, Node.js, Express.js</li>
   <li><strong>Tools & Platforms:</strong> Git, GitHub, VS Code</li>
-  <li><strong>Interests:</strong> AI/ML, Cybersecurity</li>
 </ul>
 
 <!-- Divider -->
@@ -40,7 +39,7 @@
 <br><br>
 
 <!-- My Statistics -->
-<h2 align="center">📊 My Statistics</h2>
+<h2 align="center">📊 My Stats</h2>
 <p align="center">
   <table align="center" style="border: none;">
     <tr style="border: none;">
@@ -100,9 +99,9 @@
 <p align="center">
   <samp>
     <a href="mailto:deshanfdo27@gmail.com">Email</a> .
-    <a href="https://www.linkedin.com/in/" target="_blank">LinkedIn</a> .
+    <a href="https://www.linkedin.com/in/pasindu-fdo" target="_blank">LinkedIn</a> .
     <a href="https://twitter.com/" target="_blank">Twitter</a> .
-    <a href="https://github.com/" target="_blank">GitHub</a>
+    <a href="https://github.com/Pasindu-Fdo" target="_blank">GitHub</a>
   </samp>
 </p>
 
