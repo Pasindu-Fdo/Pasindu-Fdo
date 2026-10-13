@@ -78,12 +78,12 @@ Production-grade applications and tools that solve real problems:
 
 ## Portfolio
 
-**[pasindufdo.me](https://pasindufdo.me)** – Latest projects, case studies, and work. See how I bring ideas to life with modern technologies and thoughtful design.
+**[pasindufdo.me](https://pasindufdo.dev)** – Latest projects, case studies, and work. See how I bring ideas to life with modern technologies and thoughtful design.
 
 ## Get in Touch
 
 <p align="center">
-  <a href="https://pasindufdo.me" target="_blank" style="margin: 0 15px;">Portfolio</a> •
+  <a href="https://pasindufdo.dev" target="_blank" style="margin: 0 15px;">Portfolio</a> •
   <a href="mailto:deshanfdo27@gmail.com" style="margin: 0 15px;">Email</a> •
   <a href="https://www.linkedin.com/in/pasindu-fdo" target="_blank" style="margin: 0 15px;">LinkedIn</a> •
   <a href="https://github.com/Pasindu-Fdo" target="_blank" style="margin: 0 15px;">GitHub</a>
