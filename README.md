@@ -78,7 +78,7 @@ Production-grade applications and tools that solve real problems:
 
 ## Portfolio
 
-**[pasindufdo.me](https://pasindufdo.dev)** – Latest projects, case studies, and work. See how I bring ideas to life with modern technologies and thoughtful design.
+**[pasindufdo.dev](https://pasindufdo.dev)** – Latest projects, case studies, and work. See how I bring ideas to life with modern technologies and thoughtful design.
 
 ## Get in Touch
 
